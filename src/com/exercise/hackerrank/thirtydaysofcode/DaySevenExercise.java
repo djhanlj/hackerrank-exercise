@@ -1,4 +1,4 @@
-package com.exercise.hackerrank.thirtydaysofcode.seven;
+package com.exercise.hackerrank.thirtydaysofcode;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,7 +9,7 @@ import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.toList;
 
-public class Solution {
+public class DaySevenExercise {
 
     public static void main(String[] args) throws IOException {
 
